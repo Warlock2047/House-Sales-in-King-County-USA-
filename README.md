@@ -43,3 +43,5 @@ We continue the same step for other types with colors that we cannot easily choo
 16. In order to reach the healthiest regression models we have created, mean squared error and root mean squared error values are the lowest (since they are error values); We want to choose the one with the highest r-square value.
 17. Random forest regressor and artificial neutral networks options from the graphics we created to be able to choose, have the lowest mean squared error and root mean squared error values; We see that they are the regression models with the highest r-square value.
 18. After comparing the values we reached at the end of our analysis, we decide that the most healthy model is the random forest regressor.
+
+- [Data Set](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
